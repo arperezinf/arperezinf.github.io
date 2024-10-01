@@ -6,11 +6,6 @@
 
 - [Sobre Mí](https://github.com/arperezinf/arperezinf/blob/main/README.md#sobre-m%C3%AD)
 - [Proyectos](https://github.com/arperezinf/arperezinf/blob/main/README.md#proyectos)
-- Habilidades
-- Logros
-- Testimonios
-- Estadísticas de GitHub
-- Últimos Artículos
 - Contacto
 
 ## Sobre Mí
@@ -49,22 +44,6 @@ Otra breve descripción. ¿Qué hace que este proyecto sea especial?
 
 ## 🏆 Logros
 
-- Certificación en Desarrollo Web Full Stack por [Nombre de la Institución]
-- Ganador del Hackathon XYZ 2023
-- Mención especial en el concurso de programación ABC
-
-## 💬 Testimonios
-
-> "Trabajar con [Tu Nombre] fue una experiencia increíble. Su habilidad para resolver problemas es excepcional." - [Nombre del Recomendador]
-
-## 📝 Últimos Artículos
-
-Cómo mejorar tu portafolio de GitHub
-10 trucos para dominar JavaScript
-
-## 🎨 Estilo Personalizado
-<div style=“background-color: #f0f0f0; padding: 10px; border-radius: 5px;”> <h2>¡Gracias por visitar mi portafolio!</h2> <p>Espero que disfrutes explorando mis proyectos tanto como yo disfruté creándolos.</p> </div>
-
 ## Contacto
 
 - **Email:** (arperezinf@hotmail.com)
@@ -72,7 +51,4 @@ Cómo mejorar tu portafolio de GitHub
 - **Instagram** (https://www.instagram.com/arpsolidworks/)
 - **Facebook**
 
-!GitHub followers
-!GitHub stars
-
-!GIF divertido
+<div style=“background-color: #f0f0f0; padding: 10px; border-radius: 5px;”> <h2>¡Gracias por visitar mi portafolio!</h2> <p>Espero que disfrutes explorando mis proyectos tanto como yo disfruté creándolos.</p> </div>
