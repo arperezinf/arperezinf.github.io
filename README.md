@@ -1,6 +1,6 @@
 # 🚀 Mi Portafolio de Desarrollo Web
 
-¡Hola! Soy [Andry Rodriguez Perez], un apasionado de la tecnologia deseoso de poder crear experiencias increíbles en la web. Aquí encontrarás algunos de mis proyectos más destacados.
+¡Hola! Soy Andry Rodriguez Perez, un apasionado de la tecnologia deseoso de poder crear experiencias increíbles en la web. Aquí encontrarás algunos de mis proyectos más destacados.
 
 ## Tabla de Contenidos
 
