@@ -65,7 +65,7 @@ body {
     grid-row: 1 / span 3;
     background-color: var(--yellow);
     font-size: clamp(16px, 1vw, 36px);
-    line-height: 1.4em;
+    line-height: 1em;
     padding: 1em;
     text-align: center;
 }
@@ -99,7 +99,7 @@ body {
     grid-row: 1;
     background-color: var(--turquoise);
     font-size: clamp(16px, 1vw, 36px);
-    line-height: 1em;
+    line-height: 1.4em;
     padding: .5em;
 }
 .card-developer__info h2 {
