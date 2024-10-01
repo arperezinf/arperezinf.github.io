@@ -5,7 +5,7 @@
 ## Tabla de Contenidos
 
 - [Sobre Mí](https://github.com/arperezinf/arperezinf/blob/main/README.md#sobre-m%C3%AD)
-- Proyectos
+- [Proyectos](https://github.com/arperezinf/arperezinf/blob/main/README.md#proyectos)
 - Habilidades
 - Logros
 - Testimonios
