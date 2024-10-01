@@ -54,15 +54,6 @@ Otra breve descripción. ¿Qué hace que este proyecto sea especial?
 
 > "Trabajar con [Tu Nombre] fue una experiencia increíble. Su habilidad para resolver problemas es excepcional." - [Nombre del Recomendador]
 
-## 📊 Estadísticas de GitHub
-
-```mermaid
-graph TD;
-    A[Proyectos] --> B[Frontend];
-    A --> C[Backend];
-    B --> D[React];
-    C --> E[Node.js];
-
 ## 📝 Últimos Artículos
 
 Cómo mejorar tu portafolio de GitHub
