@@ -6,7 +6,7 @@
 
 - [Sobre Mí](https://github.com/arperezinf/arperezinf/blob/main/README.md#sobre-m%C3%AD)
 - [Proyectos](https://github.com/arperezinf/arperezinf/blob/main/README.md#proyectos)
-- Contacto
+- [Contacto](https://github.com/arperezinf/arperezinf#contacto)
 
 ## Sobre Mí
 
@@ -26,24 +26,6 @@ A los 10 años ingrese a un Club de Computación, fue donde descubrir el mundo d
 
 [MSX - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/MSX)
 
-## Proyectos
-
-### Proyecto 1: Mi Sitio Web Personal
-Una breve descripción de tu proyecto. ¿Qué tecnologías usaste? ¿Qué desafíos enfrentaste y cómo los resolviste?
-
-!Captura de Pantalla
-
-### Proyecto 2: Aplicación de Tareas
-Otra breve descripción. ¿Qué hace que este proyecto sea especial?
-
-## Habilidades
-
-- **Lenguajes de Programación:** Python, JavaScript, HTML, CSS
-- **Frameworks y Librerías:** React, Django, Flask
-- **Herramientas:** Git, GitHub, VS Code
-
-## 🏆 Logros
-
 ## Contacto
 
 - **Email:** (arperezinf@hotmail.com)
@@ -51,4 +33,4 @@ Otra breve descripción. ¿Qué hace que este proyecto sea especial?
 - **Instagram** (https://www.instagram.com/arpsolidworks/)
 - **Facebook**
 
-<div style=“background-color: #f0f0f0; padding: 10px; border-radius: 5px;”> <h2>¡Gracias por visitar mi portafolio!</h2> <p>Espero que disfrutes explorando mis proyectos tanto como yo disfruté creándolos.</p> </div>
+<div style=“background-color: #f0f0f0; padding: 10px; border-radius: 5px;”> <h2>¡Gracias por visitar mi portafolio!</h2></div>
