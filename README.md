@@ -30,7 +30,5 @@ A los 10 años ingrese a un Club de Computación, fue donde descubrir el mundo d
 
 - **Email:** (arperezinf@hotmail.com)
 - **LinkedIn:** (www.linkedin.com/in/arperezinf)
-- **Instagram** (https://www.instagram.com/arpsolidworks/)
-- **Facebook**
 
 <div style=“background-color: #f0f0f0; padding: 10px; border-radius: 5px;”> <h2>¡Gracias por visitar mi portafolio!</h2></div>
