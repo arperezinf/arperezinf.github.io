@@ -4,7 +4,7 @@
 
 ## Tabla de Contenidos
 
-- Sobre Mí
+- [Sobre Mí](https://github.com/arperezinf/arperezinf/blob/main/README.md#sobre-m%C3%AD)
 - Proyectos
 - Habilidades
 - Logros
