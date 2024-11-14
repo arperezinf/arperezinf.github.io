@@ -78,7 +78,6 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
 - Sistemas Operativos Windows I - Universidad “Carlos Rafael Rodríguez”, Cuba
 
 ## Proyectos
-## Proyectos
 - **SolidWorks ARP**: Canal creado en YouTube, donde podrás encontrar vídeos tutoriales de diseños realizados con SolidWorks paso a paso y completamente en español. [Suscríbete aquí](https://www.youtube.com/@solidworksarp?sub_confirmation=1)
 
 ## Contacto
@@ -88,5 +87,3 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
   <h2>¡Gracias por visitar mi portafolio!</h2>
 </div>
-
-Espero que esto te sea útil. ¿Hay algo más que te gustaría ajustar o agregar?
