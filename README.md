@@ -11,6 +11,7 @@
 - [Educación](#educación)
 - [Cursos](#cursos)
 - [Proyectos](#proyectos)
+- [Portafolio](#portafolio)
 - [Contacto](#contacto)
 
 ## Sobre Mí
@@ -79,6 +80,9 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
 
 ## Proyectos
 - **SolidWorks ARP**: Canal creado en YouTube, donde podrás encontrar vídeos tutoriales de diseños realizados con SolidWorks paso a paso y completamente en español. [Suscríbete aquí](https://www.youtube.com/@solidworksarp?sub_confirmation=1)
+
+##Portafolio CAD
+- **GrabCAD**: Portafolio con más de 250 diseños CAD. [Visitame](https://grabcad.com/andry.rodriguez.perez-1)
 
 ## Contacto
 - **Email**: [arperezinf@hotmail.com](mailto:arperezinf@hotmail.com)
