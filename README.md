@@ -1,36 +1,93 @@
 # 🚀 Mi Portafolio de Desarrollo Web
 
-¡Hola! Soy Andry Rodriguez Perez, un apasionado de la tecnologia deseoso de poder crear experiencias increíbles en la web. Aquí encontrarás algunos de mis proyectos más destacados.
+¡Hola! Soy Andry Rodriguez Perez, un apasionado de la tecnología deseoso de poder crear experiencias increíbles en la web. Aquí encontrarás algunos de mis proyectos más destacados.
 
 ## Tabla de Contenidos
 
-- [Sobre Mí](https://github.com/arperezinf/arperezinf/blob/main/README.md#sobre-m%C3%AD)
-- [Proyectos](https://github.com/arperezinf/arperezinf/blob/main/README.md#proyectos)
-- [Contacto](https://github.com/arperezinf/arperezinf#contacto)
+- [Sobre Mí](#sobre-mí)
+- [Habilidades](#habilidades)
+- [Herramientas](#herramientas)
+- [Idiomas](#idiomas)
+- [Educación](#educación)
+- [Cursos](#cursos)
+- [Proyectos](#proyectos)
+- [Portafolio](#portafolio)
+- [Contacto](#contacto)
 
 ## Sobre Mí
 
-Hace 17 años me trasladé a la Argentina, después de haber vivido casi toda mi vida en Cuba. 
+Ingeniero versátil con más de 20 años de experiencia en diversas áreas como Administración de Sistemas y Redes, Aseguramiento y Control de la Calidad, Diseño de Productos y Digitalización de Redes de Telecomunicaciones.
 
-¡Y menudo cambio! 
+He tenido la oportunidad de contribuir en diversas industrias, incluyendo Instituciones Universitarias, empresas de Aerosoles, Electrónica, Autopartes y Telecomunicaciones, donde he implementado mejoras significativas en los procesos.
 
-Adaptarme ha sido una experiencia enriquecedora, con desafíos como el clima, la comida y la cultura. Aunque hablamos el mismo idioma español, he descubierto que muchas palabras tienen significados diferentes, lo que ha hecho la experiencia aún más interesante y divertida.
+Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes donde pueda contribuir al crecimiento de la organización.
 
-Nací en Cienfuegos, una ciudad en la costa sur de Cuba, conocida por sus edificios coloniales y en el año 2005 su centro histórico fue declarado Patrimonio Cultural de la Humanidad. 
+## Habilidades
 
-Si te interesa saber más, te dejo este enlace: [Cienfuegos - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Cienfuegos)
+### Técnicas
+- Aseguramiento de la Calidad
+- Auditorías a Procesos y Productos
+- Administración de Sistemas y Redes
+- Digitalización de Productos
+- Digitalización de Redes de Telecomunicaciones
 
-Desde niño usaba las herramientas de mi padre (Destornilladores, pinzas…) para desarmar los juguetes con el objetivo de investigar su funcionamiento y ensamblado... algunas veces cuando no lograba ensamblarlos me hacia algunas preguntas: ¿Por qué...? ¿Donde…? hasta que lograba… en otras tenías que buscar ayuda de mis padres, quienes me explicaban los motivos por los cuales no había podido.
+### Blandas
+- Capacidad resolutiva
+- Liderazgo de equipos
+- Toma de decisiones
+- Comunicación
+- Planificación y organización
+- Orientación a resultados
+- Trabajo en equipo
+- Innovación y mejora continua
+- Trabajo bajo presión
+- Adaptabilidad
 
-A los 10 años ingrese a un Club de Computación, fue donde descubrir el mundo de la tecnología con las MSX un estándar de microordenador domestico de 8 bits comercializadas durante los años 1980 y principio de los años 1990, incorporaban un entorno de programación en la ROM del sistema: MSX BASIC 1.0 (de Microsoft) y admitía el sistema operativo de disco: MSX-DOS. 
+## Herramientas
+- **Windows Home/Pro/Servers**: Sistemas operativos de Microsoft.
+- **AutoCAD/Map 3D**: Software de diseño asistido por computadora y mapeo.
+- **SolidWorks**: Software de diseño y modelado 3D.
+- **MicroStation Bentley**: Software de diseño y modelado para ingeniería y arquitectura.
+- **Microsoft Office**: Suite de aplicaciones de productividad.
+- **Adobe PhotoShop/Illustrator**: Software de edición de imágenes y diseño gráfico.
+- **Jira/Trello**: Herramientas de gestión de proyectos.
+- **VMWare Horizon Client**: Software de virtualización y acceso remoto.
+- **Visual Studio Code**: Editor de código fuente para Windows, Linux, macOS y Web.
 
-Si te interesa saber más, te dejo este enlace: [MSX - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/MSX)
+## Idiomas
+- Español - Nativo
+- Inglés - Técnico
 
+## Educación
+- **Universidad “Carlos Rafael Rodríguez”**, Cuba
+  - Ingeniero Mecánico - 1999
+  - Ingeniero Industrial - 2003
 
+## Cursos
+- Curso de introducción al desarrollo web: HTML y CSS - Google
+- Mejora Continua ISO 9001: 2008 - Asociación de Fábricas Argentinas de Componentes (AFAC) e InduPyme, Argentina
+- Formación de auditores internos ISO 9001: 2008 (Basado en Norma ISO 19011: 2011) - AFAC e InduPyme, Argentina
+- Seguridad en plantas de elaboración de aerosoles - AFAC e InduPyme, Argentina
+- Tecnología del aerosol - Cámara Argentina del Aerosol (CADEA), Argentina
+- Diseño asistido por computadoras CAD – AutoCAD - Universidad “Carlos Rafael Rodríguez”, Cuba
+- Programación Básica VBA 6.0 - Universidad “Carlos Rafael Rodríguez”, Cuba
+- Sistemas Operativos Linux - Universidad “Carlos Rafael Rodríguez”, Cuba
+- Teoría y Programación de bases de datos - Universidad “Carlos Rafael Rodríguez”, Cuba
+- Introducción a Redes de computación - Universidad “Carlos Rafael Rodríguez”, Cuba
+- Programación Web - Universidad “Carlos Rafael Rodríguez”, Cuba
+- Sistemas Operativos Windows II - Universidad “Carlos Rafael Rodríguez”, Cuba
+- Sistemas Operativos Windows I - Universidad “Carlos Rafael Rodríguez”, Cuba
+
+## Proyectos
+- **SolidWorks ARP**: Canal creado en YouTube, donde podrás encontrar vídeos tutoriales de diseños realizados con SolidWorks paso a paso y completamente en español. [Suscríbete aquí](https://www.youtube.com/@solidworksarp?sub_confirmation=1)
+
+## Portafolio
+- **GrabCAD**: Portafolio con más de 250 diseños CAD. [Visitame](https://grabcad.com/andry.rodriguez.perez-1)
 
 ## Contacto
+- **Email**: [arperezinf@hotmail.com](mailto:arperezinf@hotmail.com)
+- **LinkedIn**: [www.linkedin.com/in/arperezinf](https://www.linkedin.com/in/arperezinf)
 
-- **Email:** (arperezinf@hotmail.com)
-- **LinkedIn:** (www.linkedin.com/in/arperezinf)
-
-<div style=“background-color: #f0f0f0; padding: 10px; border-radius: 5px;”> <h2>¡Gracias por visitar mi portafolio!</h2></div>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <h2>¡Gracias por visitar mi portafolio!</h2>
+</div>
