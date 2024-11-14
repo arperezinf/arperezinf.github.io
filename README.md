@@ -78,7 +78,8 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
 - Sistemas Operativos Windows I - Universidad “Carlos Rafael Rodríguez”, Cuba
 
 ## Proyectos
-- **SolidWorks ARP**: Canal creado en YouTube, donde podrás encontrar vídeos tutoriales de diseños realizados con SolidWorks paso a paso y completamente en español.
+## Proyectos
+- **SolidWorks ARP**: Canal creado en YouTube, donde podrás encontrar vídeos tutoriales de diseños realizados con SolidWorks paso a paso y completamente en español. [Suscríbete aquí](https://www.youtube.com/@solidworksarp?sub_confirmation=1)
 
 ## Contacto
 - **Email**: [arperezinf@hotmail.com](mailto:arperezinf@hotmail.com)
