@@ -5,6 +5,10 @@
 ## Tabla de Contenidos
 
 - [Sobre Mí](https://github.com/arperezinf/arperezinf/blob/main/README.md#sobre-m%C3%AD)
+- [Habilidades](https://github.com/arperezinf/arperezinf/blob/main/README.md#habilidades)
+- [Herramientas](https://github.com/arperezinf/arperezinf/blob/main/README.md#herramientas)
+- [Idiomas](https://github.com/arperezinf/arperezinf/blob/main/README.md#idiomas)
+- [Cursos](https://github.com/arperezinf/arperezinf/blob/main/README.md#cursos)
 - [Proyectos](https://github.com/arperezinf/arperezinf/blob/main/README.md#proyectos)
 - [Contacto](https://github.com/arperezinf/arperezinf#contacto)
 
@@ -15,6 +19,93 @@ Ingeniero versátil con más de 20 años de experiencia en diversas áreas como 
 He tenido la oportunidad de contribuir en diversas industrias, incluyendo Instituciones Universitarias, empresas de Aerosoles, Electrónica, Autopartes y Telecomunicaciones, donde he implementado mejoras significativas en los procesos.
 
 Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes donde pueda contribuir al crecimiento de la organización.
+
+##Habilidades
+
+Técnicas
+Aseguramiento de la Calidad.
+Auditorías a Procesos y Productos.
+Administración de Sistemas y Redes.
+Digitalización de Productos.
+Digitalización de Redes de Telecomunicaciones.
+
+Blandas
+Capacidad resolutiva.
+Liderazgo de equipos.
+Toma de decisiones.
+Comunicación.
+Planificación y organización.
+Orientación a resultados.
+Trabajo en equipo.
+Innovación y mejora continua.
+Trabajo bajo presión.
+Adaptabilidad.
+
+#Herramientas
+Windows Home/Pro/Servers: Sistemas operativos de Microsoft.
+AutoCAD/Map 3D: Software de diseño asistido por computadora y mapeo.
+SolidWorks: Software de diseño y modelado 3D.
+MicroStation Bentley: Software de diseño y modelado para ingeniería y arquitectura.
+Microsoft Office: Suite de aplicaciones de productividad.
+Adobe PhotoShop/Illustrator: Software de edición de imágenes y diseño gráfico.
+Jira/Trello: Herramientas de gestión de proyectos.
+VMWare Horizon Client: Software de virtualización y acceso remoto.
+Visual Studio Code: Es un editor de código fuente para Windows, Linux, macOS y Web.
+
+##Idiomas
+Español - Nativo.
+Ingles - Técnico.
+
+##Educación
+Universidad “Carlos Rafael Rodríguez”. Cuba.
+Ingeniero Mecánico - 1999.
+
+Universidad “Carlos Rafael Rodríguez”. Cuba.
+Ingeniero industrial - 2003.
+
+##Cursos
+Curso de introducción al desarrollo web: HTML y CSS.
+Google.
+
+Mejora Continua ISO 9001: 2008.
+Asociación de Fábricas Argentinas de componentes - AFAC y InduPyme. Argentina.
+
+Formación de auditores internos ISO 9001: 2008 (Basado en Norma ISO 19011: 2011).
+Asociación de Fábricas Argentinas de componentes - AFAC y InduPyme. Argentina.
+
+Seguridad en plantas de elaboración de aerosoles.
+Asociación de Fábricas Argentinas de componentes - AFAC y InduPyme. Argentina.
+
+Tecnología del aerosol.
+Cámara Argentina del Aerosol – CADEA, Argentina.
+
+Diseño asistido por computadoras CAD – AutoCAD.
+Universidad “Carlos Rafael Rodríguez”, Cuba.
+
+Programación Básica VBA 6.0.
+Universidad “Carlos Rafael Rodríguez”, Cuba.
+
+Sistemas Operativos Linux.
+Universidad “Carlos Rafael Rodríguez”, Cuba.
+
+Teoría y Programación de bases de datos.
+Universidad “Carlos Rafael Rodríguez”, Cuba.
+
+Introducción a Redes de computación.
+Universidad “Carlos Rafael Rodríguez”, Cuba.
+
+Programación Web.
+Universidad “Carlos Rafael Rodríguez”, Cuba.
+
+Sistemas Operativos Windows II.
+Universidad “Carlos Rafael Rodríguez”, Cuba.
+
+Sistemas Operativos Windows I.
+Universidad “Carlos Rafael Rodríguez”, Cuba.
+
+##Proyectos
+SolidWorks ARP
+Canal creado en YouTube, donde podrás encontrar vídeos tutoriales de diseños realizados con SolidWorks paso a paso y completamente en español.
 
 ## Contacto
 
