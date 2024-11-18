@@ -25,11 +25,11 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
 ## Habilidades
 
 ### Técnicas
-- Aseguramiento de la Calidad
+- Aseguramiento y Control de la Calidad
 - Auditorías a Procesos y Productos
 - Administración de Sistemas y Redes
 - Digitalización de Productos
-- Digitalización de Redes de Telecomunicaciones
+- Diseño y digitalización de Redes de Telecomunicaciones
 
 ### Blandas
 - Capacidad resolutiva
@@ -54,9 +54,6 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
 - **VMWare Horizon Client**: Software de virtualización y acceso remoto.
 - **Visual Studio Code**: Editor de código fuente para Windows, Linux, macOS y Web.
 
-## Lenguajes
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
 ## Idiomas
 - Español - Nativo
 - Inglés - Técnico
@@ -67,6 +64,7 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
   - Ingeniero Industrial - 2003
 
 ## Cursos
+- 
 - Curso de introducción al desarrollo web: HTML y CSS - Google
 - Mejora Continua ISO 9001: 2008 - Asociación de Fábricas Argentinas de Componentes (AFAC) e InduPyme, Argentina
 - Formación de auditores internos ISO 9001: 2008 (Basado en Norma ISO 19011: 2011) - AFAC e InduPyme, Argentina
@@ -80,6 +78,9 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
 - Programación Web - Universidad “Carlos Rafael Rodríguez”, Cuba
 - Sistemas Operativos Windows II - Universidad “Carlos Rafael Rodríguez”, Cuba
 - Sistemas Operativos Windows I - Universidad “Carlos Rafael Rodríguez”, Cuba
+
+## Lenguajes
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## Proyectos
 - **SolidWorks ARP**: Canal creado en YouTube, donde podrás encontrar vídeos tutoriales de diseños realizados con SolidWorks paso a paso y completamente en español. [Suscríbete aquí](https://www.youtube.com/@solidworksarp?sub_confirmation=1)
