@@ -60,7 +60,7 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
 - Inglés - Técnico
 
 ## Educación
-- **Universidad “Carlos Rafael Rodríguez”**, Cuba
+- [**Universidad “Carlos Rafael Rodríguez”**](https://www.ucf.edu.cu/), Cuba
   - Ingeniero Mecánico - 1999
   - Ingeniero Industrial - 2003
 
