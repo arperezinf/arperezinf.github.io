@@ -17,9 +17,7 @@
 ## Sobre Mí
 
 Ingeniero versátil con más de 20 años de experiencia en diversas áreas como Administración de Sistemas y Redes, Aseguramiento y Control de la Calidad, Diseño de Productos y Digitalización de Redes de Telecomunicaciones.
-
 He tenido la oportunidad de contribuir en diversas industrias, incluyendo Instituciones Universitarias, empresas de Aerosoles, Electrónica, Autopartes y Telecomunicaciones, donde he implementado mejoras significativas en los procesos.
-
 Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes donde pueda contribuir al crecimiento de la organización.
 
 ## Habilidades
@@ -54,7 +52,8 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
 - **VMWare Horizon Client**: Software de virtualización y acceso remoto.
 - **Visual Studio Code**: Editor de código fuente para Windows, Linux, macOS y Web.
 
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Lenguajes
+- [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## Idiomas
 - Español - Nativo
