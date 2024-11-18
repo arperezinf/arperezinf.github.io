@@ -85,7 +85,7 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
 ## Portafolio
 - **GrabCAD**: Portafolio con más de 250 diseños CAD. [Visitame](https://grabcad.com/andry.rodriguez.perez-1)
 
-## Contacto 📫
+## Contacto
 - **Email**: [arperezinf@hotmail.com](mailto:arperezinf@hotmail.com)
 - **LinkedIn**: [www.linkedin.com/in/arperezinf](https://www.linkedin.com/in/arperezinf)
 
