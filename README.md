@@ -12,6 +12,7 @@
 - [Idiomas](#idiomas)
 - [Educación](#educación)
 - [Cursos](#cursos)
+- [Lenguajes](#lenguajes)
 - [Proyectos](#proyectos)
 - [Portafolio](#portafolio)
 - [Contacto](#contacto)
