@@ -54,6 +54,8 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
 - **VMWare Horizon Client**: Software de virtualización y acceso remoto.
 - **Visual Studio Code**: Editor de código fuente para Windows, Linux, macOS y Web.
 
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## Idiomas
 - Español - Nativo
 - Inglés - Técnico
