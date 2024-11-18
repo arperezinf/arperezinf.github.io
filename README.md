@@ -6,6 +6,8 @@
 
 - [Sobre Mí](#sobre-mí)
 - [Habilidades](#habilidades)
+  - [Técnicas](#técnicas)
+  - [Blandas](#blandas)
 - [Herramientas](#herramientas)
 - [Idiomas](#idiomas)
 - [Educación](#educación)
