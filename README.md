@@ -6,10 +6,13 @@
 
 - [Sobre Mí](#sobre-mí)
 - [Habilidades](#habilidades)
+  - [Técnicas](#técnicas)
+  - [Blandas](#blandas)
 - [Herramientas](#herramientas)
 - [Idiomas](#idiomas)
 - [Educación](#educación)
 - [Cursos](#cursos)
+- [Lenguajes](#lenguajes)
 - [Proyectos](#proyectos)
 - [Portafolio](#portafolio)
 - [Contacto](#contacto)
@@ -17,19 +20,17 @@
 ## Sobre Mí
 
 Ingeniero versátil con más de 20 años de experiencia en diversas áreas como Administración de Sistemas y Redes, Aseguramiento y Control de la Calidad, Diseño de Productos y Digitalización de Redes de Telecomunicaciones.
-
 He tenido la oportunidad de contribuir en diversas industrias, incluyendo Instituciones Universitarias, empresas de Aerosoles, Electrónica, Autopartes y Telecomunicaciones, donde he implementado mejoras significativas en los procesos.
-
 Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes donde pueda contribuir al crecimiento de la organización.
 
 ## Habilidades
 
 ### Técnicas
-- Aseguramiento de la Calidad
+- Aseguramiento y Control de la Calidad
 - Auditorías a Procesos y Productos
 - Administración de Sistemas y Redes
 - Digitalización de Productos
-- Digitalización de Redes de Telecomunicaciones
+- Diseño y digitalización de Redes de Telecomunicaciones
 
 ### Blandas
 - Capacidad resolutiva
@@ -59,11 +60,12 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
 - Inglés - Técnico
 
 ## Educación
-- **Universidad “Carlos Rafael Rodríguez”**, Cuba
+- [**Universidad “Carlos Rafael Rodríguez”**](https://www.ucf.edu.cu/), Cuba
   - Ingeniero Mecánico - 1999
   - Ingeniero Industrial - 2003
 
 ## Cursos
+- 
 - Curso de introducción al desarrollo web: HTML y CSS - Google
 - Mejora Continua ISO 9001: 2008 - Asociación de Fábricas Argentinas de Componentes (AFAC) e InduPyme, Argentina
 - Formación de auditores internos ISO 9001: 2008 (Basado en Norma ISO 19011: 2011) - AFAC e InduPyme, Argentina
@@ -77,6 +79,9 @@ Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes dond
 - Programación Web - Universidad “Carlos Rafael Rodríguez”, Cuba
 - Sistemas Operativos Windows II - Universidad “Carlos Rafael Rodríguez”, Cuba
 - Sistemas Operativos Windows I - Universidad “Carlos Rafael Rodríguez”, Cuba
+
+## Lenguajes
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## Proyectos
 - **SolidWorks ARP**: Canal creado en YouTube, donde podrás encontrar vídeos tutoriales de diseños realizados con SolidWorks paso a paso y completamente en español. [Suscríbete aquí](https://www.youtube.com/@solidworksarp?sub_confirmation=1)
