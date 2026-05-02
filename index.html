@@ -72,6 +72,18 @@
     transition: color 0.2s;
   }
   .nav-links a:hover { color: var(--accent); }
+  .nav-toggle {
+    display: none;
+    width: 40px;
+    height: 40px;
+    border: 1px solid var(--border2);
+    border-radius: 8px;
+    background: transparent;
+    color: var(--text);
+    font-size: 1.1rem;
+    cursor: pointer;
+  }
+  .nav-toggle:hover { border-color: var(--accent); color: var(--accent); }
 
   /* ─── HERO ─── */
   .hero {
@@ -454,12 +466,75 @@
   .fade-up-d3 { animation-delay: 0.3s; }
 
   /* ─── RESPONSIVE ─── */
+  @media (max-width: 1024px) {
+    .hero { gap: 2rem; }
+    .hero-visual { flex: 0 0 300px; }
+    .contact-grid { gap: 2rem; }
+  }
+
   @media (max-width: 768px) {
-    .hero { flex-direction: column; }
+    nav { padding: 0 1rem; height: 58px; }
+    .nav-toggle { display: inline-flex; align-items: center; justify-content: center; }
+    .nav-links {
+      position: absolute;
+      top: 58px;
+      left: 0;
+      right: 0;
+      display: none;
+      flex-direction: column;
+      gap: 0;
+      padding: 0.6rem 1rem;
+      background: rgba(14,15,17,0.98);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-links.is-open { display: flex; }
+    .nav-links li { border-bottom: 1px solid var(--border); }
+    .nav-links li:last-child { border-bottom: 0; }
+    .nav-links a { display: block; padding: 0.8rem 0.2rem; font-size: 0.82rem; }
+
+    section { padding: 4.5rem 1rem; }
+    .hero {
+      min-height: auto;
+      flex-direction: column;
+      gap: 2rem;
+      padding: 82px 1rem 2.5rem;
+    }
     .hero-visual { flex: none; width: 100%; }
-    .hero-stats { gap: 2rem; }
+    .hero-desc { font-size: 0.98rem; }
+    .hero-stats {
+      margin-top: 2.2rem;
+      padding-top: 1.4rem;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+    .hero-stats > div { min-width: 90px; }
+    .stat-num { font-size: 1.75rem; }
+
+    .projects-grid,
+    .skills-grid,
+    .edu-grid,
+    .courses-list,
+    .tools-grid { grid-template-columns: 1fr; }
+
+    .project-card,
+    .skill-card,
+    .edu-card { padding: 1.35rem; }
+    .course-item { padding: 0.85rem 1rem; }
+
+    .hero-ctas { width: 100%; }
+    .btn-primary,
+    .btn-secondary { width: 100%; justify-content: center; }
+
     .contact-grid { grid-template-columns: 1fr; gap: 2rem; }
-    nav .nav-links { display: none; }
+    .contact-form { padding: 1.25rem; }
+    .back-to-top { right: 0.8rem; bottom: 0.8rem; }
+  }
+
+  @media (max-width: 420px) {
+    h1.hero-name { font-size: 2.35rem; }
+    .hero-title { font-size: 0.95rem; }
+    .section-title { font-size: 1.8rem; }
   }
 </style>
 </head>
@@ -468,6 +543,7 @@
 <!-- NAV -->
 <nav>
   <a href="#" class="nav-logo">ARP</a>
+  <button id="nav-toggle" class="nav-toggle" type="button" aria-label="Abrir menú" aria-expanded="false">☰</button>
   <ul class="nav-links">
     <li><a href="#experiencia">Experiencia</a></li>
     <li><a href="#habilidades">Habilidades</a></li>
@@ -762,6 +838,34 @@
 </button>
 
 <script>
+  const navToggle = document.getElementById('nav-toggle');
+  const navLinks = document.querySelector('.nav-links');
+  const navAnchors = document.querySelectorAll('.nav-links a');
+
+  navToggle.addEventListener('click', () => {
+    const isOpen = navLinks.classList.toggle('is-open');
+    navToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+    navToggle.textContent = isOpen ? '✕' : '☰';
+  });
+
+  navAnchors.forEach((link) => {
+    link.addEventListener('click', () => {
+      if (window.innerWidth <= 768) {
+        navLinks.classList.remove('is-open');
+        navToggle.setAttribute('aria-expanded', 'false');
+        navToggle.textContent = '☰';
+      }
+    });
+  });
+
+  window.addEventListener('resize', () => {
+    if (window.innerWidth > 768) {
+      navLinks.classList.remove('is-open');
+      navToggle.setAttribute('aria-expanded', 'false');
+      navToggle.textContent = '☰';
+    }
+  });
+
   const contactSend = document.getElementById('contact-send');
   const contactName = document.getElementById('contact-name');
   const contactEmail = document.getElementById('contact-email');
