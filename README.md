@@ -1,98 +1,55 @@
-# 🚀 Mi Portafolio de Desarrollo Web
+# arperezinf.github.io
 
-¡Hola! Soy Andry Rodriguez Perez, un apasionado de la tecnología deseoso de poder crear experiencias increíbles en la web. Aquí encontrarás algunos de mis proyectos más destacados.
+Portfolio personal de Andry Rodriguez Perez.
 
-## Tabla de Contenidos
+Ingeniero y Technical Lead en Buenos Aires, con mas de 20 anos de experiencia en:
 
-- [Sobre Mí](#sobre-mí)
-- [Habilidades](#habilidades)
-  - [Técnicas](#técnicas)
-  - [Blandas](#blandas)
-- [Herramientas](#herramientas)
-- [Idiomas](#idiomas)
-- [Educación](#educación)
-- [Cursos](#cursos)
-- [Lenguajes](#lenguajes)
-- [Proyectos](#proyectos)
-- [Portafolio](#portafolio)
-- [Contacto](#contacto)
+- Control de calidad y auditoria de procesos/productos.
+- Digitalizacion de redes FTTH.
+- Diseno CAD y modelado 3D.
+- Desarrollo de herramientas tecnicas con Python y JavaScript.
 
-## Sobre Mí
+## Sitio en produccion
 
-Ingeniero versátil con más de 20 años de experiencia en diversas áreas como Administración de Sistemas y Redes, Aseguramiento y Control de la Calidad, Diseño de Productos y Digitalización de Redes de Telecomunicaciones.
-He tenido la oportunidad de contribuir en diversas industrias, incluyendo Instituciones Universitarias, empresas de Aerosoles, Electrónica, Autopartes y Telecomunicaciones, donde he implementado mejoras significativas en los procesos.
-Busco oportunidades para ampliar mis conocimientos en proyectos desafiantes donde pueda contribuir al crecimiento de la organización.
+- URL: [https://arperezinf.github.io](https://arperezinf.github.io)
+- Deploy: GitHub Pages desde la rama `main`.
 
-## Habilidades
+## Que incluye el sitio
 
-### Técnicas
-- Aseguramiento y Control de la Calidad
-- Auditorías a Procesos y Productos
-- Administración de Sistemas y Redes
-- Digitalización de Productos
-- Diseño y digitalización de Redes de Telecomunicaciones
+- `Hero` con presentacion profesional y resumen de impacto.
+- `Experiencia` en formato timeline.
+- `Habilidades` tecnicas, de desarrollo y de liderazgo.
+- `Proyectos` destacados: AuditorQC, AuditorMO Web, SolidWorks ARP y portfolio GrabCAD.
+- `Educacion y cursos`.
+- `Contacto` directo por email y redes profesionales.
 
-### Blandas
-- Capacidad resolutiva
-- Liderazgo de equipos
-- Toma de decisiones
-- Comunicación
-- Planificación y organización
-- Orientación a resultados
-- Trabajo en equipo
-- Innovación y mejora continua
-- Trabajo bajo presión
-- Adaptabilidad
+## Stack tecnico
 
-## Herramientas
-- **Windows Home/Pro/Servers**: Sistemas operativos de Microsoft.
-- **AutoCAD/Map 3D**: Software de diseño asistido por computadora y mapeo.
-- **SolidWorks**: Software de diseño y modelado 3D.
-- **MicroStation Bentley**: Software de diseño y modelado para ingeniería y arquitectura.
-- **Microsoft Office**: Suite de aplicaciones de productividad.
-- **Adobe PhotoShop/Illustrator**: Software de edición de imágenes y diseño gráfico.
-- **Jira/Trello**: Herramientas de gestión de proyectos.
-- **VMWare Horizon Client**: Software de virtualización y acceso remoto.
-- **Visual Studio Code**: Editor de código fuente para Windows, Linux, macOS y Web.
+- `HTML5`
+- `CSS3` (responsive, variables CSS y animaciones)
+- `JavaScript` vanilla (animaciones y generacion de email desde formulario)
+- `GitHub Pages`
 
-## Idiomas
-- Español - Nativo
-- Inglés - Técnico
+## Estructura del repositorio
 
-## Educación
-- [**Universidad “Carlos Rafael Rodríguez”**](https://www.ucf.edu.cu/), Cuba
-  - Ingeniero Mecánico - 1999
-  - Ingeniero Industrial - 2003
+```text
+arperezinf.github.io/
+├── index.html
+├── assets/
+└── README.md
+```
 
-## Cursos
-- 
-- Curso de introducción al desarrollo web: HTML y CSS - Google
-- Mejora Continua ISO 9001: 2008 - Asociación de Fábricas Argentinas de Componentes (AFAC) e InduPyme, Argentina
-- Formación de auditores internos ISO 9001: 2008 (Basado en Norma ISO 19011: 2011) - AFAC e InduPyme, Argentina
-- Seguridad en plantas de elaboración de aerosoles - AFAC e InduPyme, Argentina
-- Tecnología del aerosol - Cámara Argentina del Aerosol (CADEA), Argentina
-- Diseño asistido por computadoras CAD – AutoCAD - Universidad “Carlos Rafael Rodríguez”, Cuba
-- Programación Básica VBA 6.0 - Universidad “Carlos Rafael Rodríguez”, Cuba
-- Sistemas Operativos Linux - Universidad “Carlos Rafael Rodríguez”, Cuba
-- Teoría y Programación de bases de datos - Universidad “Carlos Rafael Rodríguez”, Cuba
-- Introducción a Redes de computación - Universidad “Carlos Rafael Rodríguez”, Cuba
-- Programación Web - Universidad “Carlos Rafael Rodríguez”, Cuba
-- Sistemas Operativos Windows II - Universidad “Carlos Rafael Rodríguez”, Cuba
-- Sistemas Operativos Windows I - Universidad “Carlos Rafael Rodríguez”, Cuba
+## Ejecucion local
 
-## Lenguajes
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-## Proyectos
-- **SolidWorks ARP**: Canal creado en YouTube, donde podrás encontrar vídeos tutoriales de diseños realizados con SolidWorks paso a paso y completamente en español. [Suscríbete aquí](https://www.youtube.com/@solidworksarp?sub_confirmation=1)
-
-## Portafolio
-- **GrabCAD**: Portafolio con más de 250 diseños CAD. [Visitame](https://grabcad.com/andry.rodriguez.perez-1)
+```bash
+git clone https://github.com/arperezinf/arperezinf.github.io.git
+cd arperezinf.github.io
+npx serve .
+```
 
 ## Contacto
-- **Email**: [arperezinf@hotmail.com](mailto:arperezinf@hotmail.com)
-- **LinkedIn**: [www.linkedin.com/in/arperezinf](https://www.linkedin.com/in/arperezinf)
 
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <h2>¡Gracias por visitar mi portafolio!</h2>
-</div>
+- Email: `arperezinf@hotmail.com`
+- LinkedIn: [https://linkedin.com/in/arperezinf](https://linkedin.com/in/arperezinf)
+- GrabCAD: [https://grabcad.com/andry.rodriguez.perez-1](https://grabcad.com/andry.rodriguez.perez-1)
+- YouTube: [https://www.youtube.com/@solidworksarp](https://www.youtube.com/@solidworksarp)
